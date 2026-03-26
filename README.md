@@ -77,12 +77,6 @@ A railway-style backend system for ticket booking and scheduling.
 
 ---
 
-## 📈 What Makes This Repository Different
-Unlike basic tutorial projects, these systems are designed with a **real-world engineering mindset**:
-- 💡 Focus on solving actual business problems  
-- ⚡ Emphasis on performance and efficiency  
-- 🧱 Clean and scalable architecture  
-- 🔍 Practical backend design used in production systems  
 
 ---
 
