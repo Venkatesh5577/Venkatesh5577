@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/tenor.gif" width="600"/>
+  <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/tenor.gif" width="600" " />
 </p>
 
 <p align="center">
